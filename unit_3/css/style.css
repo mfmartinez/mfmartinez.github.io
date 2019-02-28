@@ -1,0 +1,41 @@
+body {
+	background-image: url("https://static1.squarespace.com/static/575700033c44d8f0d395e454/5b368ea51ae6cf7111dd5942/5b4ccb828a922de0f2302297/1531759508012/Screen+Shot+2018-07-16+at+11.32.49+AM.png?format=2500w");
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+
+}
+
+h1 {
+	color: white;
+	font-weight: bold;
+	font-family: Helvetica;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 50px;
+	text-shadow: 2px 2px #ff0000;
+}
+
+h2 {
+	color: white;
+	font-family: Helvetica;
+}
+
+p {
+	color: white;
+	font-family: Helvetica;	
+	font-size: 25px;
+	font-weight:600;
+}
+
+ul {
+	color: white;
+	font-family: Helvetica;	
+	font-size: 25px;
+	font-weight:600;
+}
+
+a {
+	color: yellow;
+	text-shadow: 2px 2px hotpink;
+}
